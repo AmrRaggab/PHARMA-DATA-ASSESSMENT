@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Pharma", "Pharma\Pharma.dtproj", "{DEAD57FA-0347-40E3-A6DF-47125C0E9828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAD57FA-0347-40E3-A6DF-47125C0E9828}.Development|Default.ActiveCfg = Development
+		{DEAD57FA-0347-40E3-A6DF-47125C0E9828}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89523F0B-77A0-4141-9E60-406233DF34A8}
+	EndGlobalSection
+EndGlobal
